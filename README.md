@@ -1,7 +1,7 @@
 Trello Boards
 =============
 
-Linux Mint 19.3: https://trello.com/b/5OfcpmZi/linux-mint-193
+Linux Mint 20.1 https://trello.com/b/xAg5vHlI/linux-mint-201
 
 Maintenance
 ===========
@@ -14,9 +14,17 @@ Maintenance
 Linux Mint 20
 =============
 
+    mintupdate: remove blacklist sync button (confusing). When blacklist changes or is different, alert user with infobar, does he want to sync?
+
     selection:
         open-vm-tools?
         libinput-gestures?
+
+    mintupdate:
+        remove linux-kernel-generic meta? (or shall we do it in ubiquity?)
+
+    meta:
+        make it easier to install other DE?
 
     artwork:
         theme LO
@@ -26,14 +34,9 @@ Linux Mint 20
     mate:
         Ctrl+alt+backspace support
 
-    xapp:
-        scroll events for xappstatusicon
-        switch rhythmbox icon to xappstatusicon
-
     cinnamon:
         cs_info: Show a distro logo
         remove send-by-email nemo action
-
 
     mate:
         theme settings
@@ -41,9 +44,6 @@ Linux Mint 20
             mint-x background too dark
         hidpi
             titlebar buttons are blurry
-
-    apturl doesn't refresh
-
 
     system:
         add CLI support for foreign packages list/removal/downgrade
@@ -53,8 +53,6 @@ Linux Mint 20
         use dark-variants for dark apps (xplayer..etc) in Mint-Y (needs fixes in mint-themes and marco: https://github.com/mate-desktop/marco/pull/530)
         icons
             grey-on-grey icons (many in cinnamon-settings)
-            review color variations in mint-y
-            add missing yellow icons
         update MATE metathemes
         consider manjaro mouse cursor?
 
@@ -73,8 +71,18 @@ Linux Mint 20
         simplify rotation, flip..
 
     timeshift:
-        show a try when a save is ongoing
+        show a tray when a save is ongoing
         let user cancel save
+
+    A system configuration tool? (to configure systemd and all? The shutdown timeout typically should be configurable in a UI now that we override it)
+
+LMDE 5
+======
+
+    live-installer:
+        Let user select/deselect swap
+        Let user see/edit partition labels
+        Let user disable badblock for LUKS
 
 
 Ideas - Todos
@@ -137,12 +145,6 @@ Ideas - Todos
 
     xed:
         option to remember past opened-documents
-
-LMDE 4
-======
-
-remove debian-multimedia
-add backports (priority 100)
 
 Roadmap
 =======
