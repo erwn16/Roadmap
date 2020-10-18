@@ -242,3 +242,18 @@ R&D
 
     network discovery:
         easy out-of-the-box interactions (messaging/presence/file-sharing) over the LAN
+        
+        
+
+
+==========================================================================================================================================================        
+PROPOSALS of a longitudinal Linux Mint user
+
+For Login, Screensaver, Update manager etc.: A unique functionality of showing the password to be able to correct a mistype. This is nowadays a standard in many apps.
+
+Recommendations with regard to start coding activities: Which projects are suitable for beginners like me? I didn't find recommendations.
+Where is "St", the shell toolkit, documented in Github? This is not documented. 
+
+Where can I submit proposals? I didn't find information about that. I guess that this way is not the correct channel.
+
+
