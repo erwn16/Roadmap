@@ -249,10 +249,10 @@ R&D
 ==========================================================================================================================================================        
 PROPOSALS of a longitudinal Linux Mint user
 
-For Login, Screensaver, Update manager etc.: A unique functionality of showing the password to be able to correct a mistype. This is nowadays a standard in many apps.
+For Login, Screensaver, Update manager etc.: A unique functionality of showing the password to be able to correct a mistype. This will be very helpful.
 
 Recommendations with regard to start coding activities: Which projects are suitable for beginners like me? I didn't find recommendations.
-Where is "St", the shell toolkit, documented in Github? This is not documented. 
+Where is "St", the shell toolkit, documented in Github? I searched for it and could not find it. 
 
 Where can I submit proposals? I didn't find information about that. I guess that this way is not the correct channel.
 
